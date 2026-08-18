@@ -1,0 +1,17 @@
+BASKET PLAYBOOK PWA V2.1
+
+Carica TUTTI i file di questa cartella nella root del repository GitHub Basket-playbook.
+Non serve creare una cartella icons: le icone sono già nella root.
+
+Dopo il commit, GitHub Pages userà:
+- index.html
+- manifest.webmanifest
+- service-worker.js
+- icon-192.png
+- icon-512.png
+- icon-maskable-192.png
+- icon-maskable-512.png
+- apple-touch-icon.png
+- favicon.ico
+
+Poi sul telefono elimina l'eventuale vecchia scorciatoia e reinstalla dal sito GitHub Pages.
